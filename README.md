@@ -28,7 +28,6 @@ This project analyzes the factors influencing rental prices across different bor
 4. Regression analysis using SPSS  
 5. Manhattan used as reference category  
 
----
 
 ## Key Findings
 - Manhattan has the highest baseline rental prices  
@@ -37,17 +36,9 @@ This project analyzes the factors influencing rental prices across different bor
 - Location is a strong determinant of housing price variation  
 
 
-
 ## Business Insights
 - Location remains the most critical factor in NYC housing pricing  
 - Real estate investors should prioritize borough-level differences  
 - Rent pricing strategies should account for both size and location  
 
----
 
-## 🚀 Future Improvements
-- Include time-series analysis (price trends over years)  
-- Add more features such as amenities and proximity to transport  
-- Use machine learning models for prediction  
-
----
