@@ -151,4 +151,8 @@ The analysis involved collaborative work across data preparation, exploratory an
 
 ## 📄 Project Presentation
 
-The full project presentation provides the detailed methodology, statistical outputs, visualizations, and conclusions from the analysis.
+## 📄 Full Analysis Report
+
+The full report includes detailed data preparation, exploratory analysis, regression results, statistical diagnostics, and interpretation.
+
+🔗 [View Full Analysis Report](report/NYC_Rent_Market_Analysis_Report.pdf)
