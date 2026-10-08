@@ -73,9 +73,14 @@ Simple correlations between rent, inventory, time, and month were generally very
 
 This suggested that simple bivariate relationships were insufficient to explain NYC rental price behavior and motivated the use of multivariate analysis.
 
+![Simple Correlations with Median Rent](visuals/correlation_analysis.png)
 ---
 
 ## 📈 Key Findings
+
+### NYC Rental Market at a Glance
+
+![Adjusted Mean Rent by NYC Borough](visuals/borough_rent_comparison.png)
 
 ### Geography Matters
 
@@ -103,6 +108,8 @@ The model estimated that NYC rent increased by approximately **$86 per year on a
 Although simple correlations between rent and individual variables such as month or inventory were weak, the multivariate model explained **nearly half of the observed variation in rent**.
 
 This suggests that NYC rental prices are better understood through a combination of geographic and temporal factors rather than through any single variable.
+
+![Multivariate Regression Key Results](visuals/regression_results.png)
 
 ---
 
